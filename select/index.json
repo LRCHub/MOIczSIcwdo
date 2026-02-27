@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Tekipaki",
+  "base_artist": "Litty",
+  "createdAt": "2026-02-27T14:23:23.244105Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tekipaki",
+      "artist": "Litty",
+      "has_synced": false,
+      "path": "select/pl_01_Tekipaki_Litty.txt"
+    }
+  ]
+}
